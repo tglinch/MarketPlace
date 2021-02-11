@@ -1,0 +1,2 @@
+module StoresBackoffice::WelcomeHelper
+end
